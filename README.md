@@ -1,4 +1,7 @@
 # Reactjs-TodoApp
+
+## Developed by Michael Jetson
+
 The todo app has the following functionality:-
 1. Add tasks.
 2. Filter tasks based on pending and completed.
