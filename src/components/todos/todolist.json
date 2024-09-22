@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "item": "Read a book",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "item": "Write a report",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "item": "Do the laundry",
+        "completed": true
+    }
+]
